@@ -1,0 +1,4 @@
+#typeCarte;tailleX;tailleY
+rectangle;10;10
+#nbJoueur;Cmax;Kmax;nbTours
+4;50;100;10
